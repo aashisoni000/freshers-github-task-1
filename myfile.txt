@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My first Kzilla Task
 
+=======
+My first kzilla task
+>>>>>>> ad56169 (feat: added myfile.txt)
